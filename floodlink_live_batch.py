@@ -30,15 +30,15 @@ CSV_PATH = "cities15000.csv"
 COMPARISON_PATH = "alerts_comparison.json"   # single source of truth
 TWEET_LOG_PATH = "tweeted_alerts.json"       # map-ready tweet history
 
-SLEEP_BETWEEN_CALLS = 0.1         # seconds between API calls (now: between BATCHES)
+SLEEP_BETWEEN_CALLS = 1.0         # seconds between API calls (now: between BATCHES)
 COMPARISON_HISTORY = 5            # or 10
 TIMEZONE = "Europe/Madrid"
-MAX_RETRIES = 1
-TIMEOUT = 5                        # request timeout (s) per Open-Meteo call
+MAX_RETRIES = 2
+TIMEOUT = 10                        # request timeout (s) per Open-Meteo call
 FORECAST_HOURS = 6                 # 3, 6, 12, ...
 
 # New: how many cities per Open-Meteo request
-BATCH_SIZE = 50  # 50–100 is a good range; tune if needed
+BATCH_SIZE = 40  # 40–100 is a good range; tune if needed
 
 # --- Twitter config ---
 TWITTER_ENABLED = os.getenv("TWITTER_ENABLED", "false").lower() == "true"
