@@ -1,1 +1,14 @@
-{}
+{
+  "-26.2433,-48.6381": {
+    "country": "",
+    "name": "São Francisco do Sul",
+    "risk_level": "Medium",
+    "latitude": -26.24333,
+    "longitude": -48.63806,
+    "rain_mm": 74.7,
+    "humidity": 94.8,
+    "soil_moisture": 0.0,
+    "raw_dynamic_score": 6.318,
+    "last_updated": "2025-11-24T17:19:47.430683Z"
+  }
+}

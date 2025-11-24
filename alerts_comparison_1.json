@@ -1,0 +1,7 @@
+{
+  "timestamp": "2025-11-24T16:06:10.072020Z",
+  "source": "Open-Meteo",
+  "forecast_window_hours": 6,
+  "features_evaluated": 0,
+  "alerts": []
+}
