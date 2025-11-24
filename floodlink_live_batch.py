@@ -51,7 +51,7 @@ MIN_SECONDS_BETWEEN_TWEETS = 30
 # -------------------------------
 # TUNABLE CONSTANTS (units!)
 # -------------------------------
-RISK_THRESHOLD = 8.5         # baseline FRisk cutoff from GIS layer
+RISK_THRESHOLD = 8.4         # baseline FRisk cutoff from GIS layer
 
 RAIN_UNIT_MM   = 100.0       # 100 mm → 1.0× rain multiplier
 SOIL_MIN_MULT  = 0.95        # soil=0 -> 0.95×
