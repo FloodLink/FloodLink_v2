@@ -1,0 +1,78 @@
+name: 🌧️ FloodLink Live Risk Engine
+
+on:
+  schedule:
+    - cron: "0 */3 * * *"   # every 3 hours
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+# avoid concurrent runs stepping on each other
+concurrency:
+  group: floodlink-live
+  cancel-in-progress: true
+
+jobs:
+  run-floodlink:
+    runs-on: ubuntu-latest
+    
+    env:
+      # ✅ enable live tweets
+      TWITTER_ENABLED: "true"
+      
+      # ⚠️ Recommend using GitHub Secrets instead of raw keys below
+      TWITTER_API_KEY: ${{ secrets.TWITTER_API_KEY }}
+      TWITTER_SECRET: ${{ secrets.TWITTER_SECRET }}
+      TWITTER_ACCESS_TOKEN: ${{ secrets.TWITTER_ACCESS_TOKEN }}
+      TWITTER_ACCESS_SECRET: ${{ secrets.TWITTER_ACCESS_SECRET }}
+
+    steps:
+      - name: 📦 Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0   # allow pull/rebase/push
+
+      - name: 🐍 Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: ⚙️ Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install pandas requests tweepy tzdata
+
+      - name: 🌧️ Run FloodLink Live Engine (batched)
+        run: |
+          echo "Starting live flood risk evaluation (batched)..."
+          echo "TWITTER_ENABLED=$TWITTER_ENABLED"
+          python floodlink_live_batch.py
+
+      - name: 💾 Commit and push updated alerts JSON
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -e
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # 1) Sync with remote, autostashing local JSON edits
+          git fetch origin
+          git pull --rebase --autostash origin main
+          
+          # 2) Always add the main JSON files (they are created/updated every run)
+          git add alerts_comparison.json tweeted_alerts.json || true
+          
+          # 3) Add snapshot files if they exist
+          if ls alerts_comparison_*.json 1> /dev/null 2>&1; then
+            git add alerts_comparison_*.json
+          fi
+          
+          # 4) Commit only if there are staged changes
+          if ! git diff --cached --quiet; then
+            git commit -m "🌧️ Auto-update: flood risk alerts ($(date -u +'%Y-%m-%dT%H:%M:%SZ'))"
+            git push origin main
+          else
+            echo "No JSON changes to commit."
+          fi
