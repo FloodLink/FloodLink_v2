@@ -442,7 +442,7 @@ def main():
             # Entire batch failed: reuse previous alert if available, else skip
             for (_, row), lat, lon in zip(batch.iterrows(), lat_list, lon_list):
                 base_risk = float(row["FRisk"])
-                name = str(row.get("ETIQUETA", f"id_{row['JOIN_ID']}"))
+                name = str(row.get("Name", f"id_{row['JOIN_ID']}"))
                 country = str(row.get("Country", "")).strip()
                 key = (round(lat, 4), round(lon, 4))
                 prev_alert = prev_alerts_dict.get(key)
@@ -474,7 +474,7 @@ def main():
             batch.iloc[:n].iterrows(), lat_list[:n], lon_list[:n], batch_weather[:n]
         ):
             base_risk = float(row["FRisk"])
-            name = str(row.get("ETIQUETA", f"id_{row['JOIN_ID']}"))
+            name = str(row.get("Name", f"id_{row['JOIN_ID']}"))
             country = str(row.get("Country", "")).strip()
 
             rain_sum, rh_avg, soil_avg = compute_indicators(api_data)
@@ -509,7 +509,7 @@ def main():
                 batch.iloc[n:].iterrows(), lat_list[n:], lon_list[n:]
             ):
                 base_risk = float(row["FRisk"])
-                name = str(row.get("ETIQUETA", f"id_{row['JOIN_ID']}"))
+                name = str(row.get("Name", f"id_{row['JOIN_ID']}"))
                 country = str(row.get("Country", "")).strip()
                 key = (round(lat, 4), round(lon, 4))
                 prev_alert = prev_alerts_dict.get(key)
