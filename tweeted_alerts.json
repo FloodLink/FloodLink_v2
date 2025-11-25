@@ -1,1 +1,14 @@
-{}
+{
+  "4.2500,103.4167": {
+    "country": "",
+    "name": "Cukai",
+    "risk_level": "Medium",
+    "latitude": 4.25,
+    "longitude": 103.41667,
+    "rain_mm": 74.1,
+    "humidity": 97.8,
+    "soil_moisture": 0.0,
+    "raw_dynamic_score": 6.276,
+    "last_updated": "2025-11-25T22:13:39.101197Z"
+  }
+}
