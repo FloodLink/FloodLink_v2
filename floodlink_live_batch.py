@@ -38,7 +38,7 @@ TIMEOUT = 5                        # request timeout (s) per Open-Meteo call
 FORECAST_HOURS = 6                 # 3, 6, 12, ...
 
 # New: how many cities per Open-Meteo request
-BATCH_SIZE = 40  # 40–100 is a good range; tune if needed
+BATCH_SIZE = 50  # 40–100 is a good range; tune if needed
 
 # --- Twitter config ---
 TWITTER_ENABLED = os.getenv("TWITTER_ENABLED", "false").lower() == "true"
