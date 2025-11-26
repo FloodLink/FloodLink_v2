@@ -1,1 +1,14 @@
-{}
+{
+  "25.6472,-100.0958": {
+    "country": "",
+    "name": "Ciudad Benito Juárez",
+    "risk_level": "Medium",
+    "latitude": 25.64724,
+    "longitude": -100.09582,
+    "rain_mm": 73.8,
+    "humidity": 94.0,
+    "soil_moisture": 0.0,
+    "raw_dynamic_score": 6.239,
+    "last_updated": "2025-11-26T16:21:32.193657Z"
+  }
+}
