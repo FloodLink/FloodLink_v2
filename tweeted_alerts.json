@@ -10,5 +10,89 @@
     "soil_moisture": 0.0,
     "raw_dynamic_score": 6.239,
     "last_updated": "2025-11-26T16:21:32.193657Z"
+  },
+  "3.3285,99.1625": {
+    "country": "",
+    "name": "Tebingtinggi",
+    "risk_level": "Medium",
+    "latitude": 3.3285,
+    "longitude": 99.1625,
+    "rain_mm": 106.3,
+    "humidity": 97.5,
+    "soil_moisture": 0.0,
+    "raw_dynamic_score": 9.002,
+    "last_updated": "2025-11-26T19:24:19.970841Z"
+  },
+  "3.5765,98.6151": {
+    "country": "",
+    "name": "Sunggal",
+    "risk_level": "Medium",
+    "latitude": 3.5765,
+    "longitude": 98.6151,
+    "rain_mm": 70.6,
+    "humidity": 95.7,
+    "soil_moisture": 0.0,
+    "raw_dynamic_score": 5.974,
+    "last_updated": "2025-11-26T19:24:50.193444Z"
+  },
+  "3.6253,98.8640": {
+    "country": "",
+    "name": "Percut",
+    "risk_level": "High",
+    "latitude": 3.6253,
+    "longitude": 98.864,
+    "rain_mm": 230.7,
+    "humidity": 96.8,
+    "soil_moisture": 0.0,
+    "raw_dynamic_score": 19.531,
+    "last_updated": "2025-11-26T19:25:20.398068Z"
+  },
+  "3.5679,98.9560": {
+    "country": "",
+    "name": "Perbaungan",
+    "risk_level": "Medium",
+    "latitude": 3.5679,
+    "longitude": 98.956,
+    "rain_mm": 148.9,
+    "humidity": 96.7,
+    "soil_moisture": 0.0,
+    "raw_dynamic_score": 12.605,
+    "last_updated": "2025-11-26T19:25:50.595732Z"
+  },
+  "3.5833,98.6667": {
+    "country": "",
+    "name": "Medan",
+    "risk_level": "Medium",
+    "latitude": 3.58333,
+    "longitude": 98.66667,
+    "rain_mm": 70.6,
+    "humidity": 95.7,
+    "soil_moisture": 0.0,
+    "raw_dynamic_score": 5.974,
+    "last_updated": "2025-11-26T19:26:20.798085Z"
+  },
+  "3.5078,98.6839": {
+    "country": "",
+    "name": "Deli Tua",
+    "risk_level": "Medium",
+    "latitude": 3.5078,
+    "longitude": 98.6839,
+    "rain_mm": 146.1,
+    "humidity": 96.5,
+    "soil_moisture": 0.0,
+    "raw_dynamic_score": 12.367,
+    "last_updated": "2025-11-26T19:26:50.977730Z"
+  },
+  "3.6001,98.4854": {
+    "country": "",
+    "name": "Binjai",
+    "risk_level": "Medium",
+    "latitude": 3.6001,
+    "longitude": 98.4854,
+    "rain_mm": 76.6,
+    "humidity": 95.8,
+    "soil_moisture": 0.0,
+    "raw_dynamic_score": 6.482,
+    "last_updated": "2025-11-26T19:27:21.170345Z"
   }
 }
