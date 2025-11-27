@@ -59,32 +59,6 @@
     "raw_dynamic_score": 5.974,
     "last_updated": "2025-11-26T19:26:20.798085Z"
   },
-  "3.5078,98.6839": {
-    "country": "",
-    "name": "Deli Tua",
-    "risk_level": "Low",
-    "latitude": 3.5078,
-    "longitude": 98.6839,
-    "rain_mm": 8.5,
-    "humidity": 95.5,
-    "soil_moisture": 0.0,
-    "raw_dynamic_score": 0.719,
-    "last_updated": "2025-11-27T14:26:01.003901Z",
-    "resolved": true
-  },
-  "3.6001,98.4854": {
-    "country": "",
-    "name": "Binjai",
-    "risk_level": "Low",
-    "latitude": 3.6001,
-    "longitude": 98.4854,
-    "rain_mm": 7.2,
-    "humidity": 96.7,
-    "soil_moisture": 0.0,
-    "raw_dynamic_score": 0.61,
-    "last_updated": "2025-11-27T14:26:31.176864Z",
-    "resolved": true
-  },
   "6.9708,80.7829": {
     "country": "",
     "name": "Nuwara Eliya",
