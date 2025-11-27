@@ -94,5 +94,41 @@
     "soil_moisture": 0.0,
     "raw_dynamic_score": 6.482,
     "last_updated": "2025-11-26T19:27:21.170345Z"
+  },
+  "6.9708,80.7829": {
+    "country": "",
+    "name": "Nuwara Eliya",
+    "risk_level": "Medium",
+    "latitude": 6.97078,
+    "longitude": 80.78286,
+    "rain_mm": 65.1,
+    "humidity": 95.8,
+    "soil_moisture": 0.0,
+    "raw_dynamic_score": 5.509,
+    "last_updated": "2025-11-27T04:15:58.950130Z"
+  },
+  "7.4698,80.6217": {
+    "country": "",
+    "name": "Matale",
+    "risk_level": "Medium",
+    "latitude": 7.4698,
+    "longitude": 80.6217,
+    "rain_mm": 79.3,
+    "humidity": 96.8,
+    "soil_moisture": 0.0,
+    "raw_dynamic_score": 6.714,
+    "last_updated": "2025-11-27T04:16:29.181423Z"
+  },
+  "6.9802,81.0577": {
+    "country": "",
+    "name": "Badulla",
+    "risk_level": "Medium",
+    "latitude": 6.9802,
+    "longitude": 81.0577,
+    "rain_mm": 108.2,
+    "humidity": 97.2,
+    "soil_moisture": 0.0,
+    "raw_dynamic_score": 9.162,
+    "last_updated": "2025-11-27T04:16:59.429955Z"
   }
 }
