@@ -2,14 +2,15 @@
   "25.6472,-100.0958": {
     "country": "",
     "name": "Ciudad Benito Juárez",
-    "risk_level": "Medium",
+    "risk_level": "Low",
     "latitude": 25.64724,
     "longitude": -100.09582,
-    "rain_mm": 73.8,
-    "humidity": 94.0,
+    "rain_mm": 0.8,
+    "humidity": 92.7,
     "soil_moisture": 0.0,
-    "raw_dynamic_score": 6.239,
-    "last_updated": "2025-11-26T16:21:32.193657Z"
+    "raw_dynamic_score": 0.068,
+    "last_updated": "2025-11-27T10:21:13.708575Z",
+    "resolved": true
   },
   "3.3285,99.1625": {
     "country": "",
@@ -130,5 +131,101 @@
     "soil_moisture": 0.0,
     "raw_dynamic_score": 9.162,
     "last_updated": "2025-11-27T04:16:59.429955Z"
+  },
+  "8.1333,81.4333": {
+    "country": "",
+    "name": "Vakarai",
+    "risk_level": "Medium",
+    "latitude": 8.13333,
+    "longitude": 81.43333,
+    "rain_mm": 62.2,
+    "humidity": 94.3,
+    "soil_moisture": 0.0,
+    "raw_dynamic_score": 5.26,
+    "last_updated": "2025-11-27T10:18:42.686087Z"
+  },
+  "6.6858,80.4036": {
+    "country": "",
+    "name": "Ratnapura",
+    "risk_level": "Medium",
+    "latitude": 6.6858,
+    "longitude": 80.4036,
+    "rain_mm": 82.0,
+    "humidity": 93.0,
+    "soil_moisture": 0.0,
+    "raw_dynamic_score": 6.929,
+    "last_updated": "2025-11-27T10:19:12.888117Z"
+  },
+  "7.2906,80.6336": {
+    "country": "",
+    "name": "Kandy",
+    "risk_level": "Medium",
+    "latitude": 7.2906,
+    "longitude": 80.6336,
+    "rain_mm": 86.7,
+    "humidity": 95.8,
+    "soil_moisture": 0.0,
+    "raw_dynamic_score": 7.336,
+    "last_updated": "2025-11-27T10:19:43.096972Z"
+  },
+  "6.8916,80.5955": {
+    "country": "",
+    "name": "Hatton",
+    "risk_level": "Medium",
+    "latitude": 6.8916,
+    "longitude": 80.5955,
+    "rain_mm": 85.4,
+    "humidity": 98.0,
+    "soil_moisture": 0.0,
+    "raw_dynamic_score": 7.234,
+    "last_updated": "2025-11-27T10:20:13.285573Z"
+  },
+  "7.1643,80.5696": {
+    "country": "",
+    "name": "Gampola",
+    "risk_level": "Medium",
+    "latitude": 7.1643,
+    "longitude": 80.5696,
+    "rain_mm": 86.7,
+    "humidity": 95.8,
+    "soil_moisture": 0.0,
+    "raw_dynamic_score": 7.336,
+    "last_updated": "2025-11-27T10:20:43.468147Z"
+  },
+  "2.7297,101.9381": {
+    "country": "",
+    "name": "Seremban",
+    "risk_level": "Medium",
+    "latitude": 2.7297,
+    "longitude": 101.9381,
+    "rain_mm": 76.2,
+    "humidity": 92.7,
+    "soil_moisture": 0.0,
+    "raw_dynamic_score": 6.438,
+    "last_updated": "2025-11-27T10:21:43.928563Z"
+  },
+  "2.6910,101.9890": {
+    "country": "",
+    "name": "Taman Senawang Indah",
+    "risk_level": "Medium",
+    "latitude": 2.691,
+    "longitude": 101.989,
+    "rain_mm": 76.2,
+    "humidity": 92.7,
+    "soil_moisture": 0.0,
+    "raw_dynamic_score": 6.438,
+    "last_updated": "2025-11-27T10:22:14.118424Z"
+  },
+  "2.7389,102.2487": {
+    "country": "",
+    "name": "Kuala Pilah",
+    "risk_level": "Medium",
+    "latitude": 2.7389,
+    "longitude": 102.2487,
+    "rain_mm": 64.1,
+    "humidity": 93.7,
+    "soil_moisture": 0.0,
+    "raw_dynamic_score": 5.418,
+    "last_updated": "2025-11-27T10:22:44.303731Z"
   }
 }
