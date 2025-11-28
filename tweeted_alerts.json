@@ -71,45 +71,6 @@
     "raw_dynamic_score": 6.714,
     "last_updated": "2025-11-27T04:16:29.181423Z"
   },
-  "2.7297,101.9381": {
-    "country": "",
-    "name": "Seremban",
-    "risk_level": "None",
-    "latitude": 2.7297,
-    "longitude": 101.9381,
-    "rain_mm": 0.0,
-    "humidity": 91.5,
-    "soil_moisture": 0.0,
-    "raw_dynamic_score": 0.0,
-    "last_updated": "2025-11-28T14:21:42.715028Z",
-    "resolved": true
-  },
-  "2.6910,101.9890": {
-    "country": "",
-    "name": "Taman Senawang Indah",
-    "risk_level": "None",
-    "latitude": 2.691,
-    "longitude": 101.989,
-    "rain_mm": 0.0,
-    "humidity": 91.5,
-    "soil_moisture": 0.0,
-    "raw_dynamic_score": 0.0,
-    "last_updated": "2025-11-28T14:22:12.895871Z",
-    "resolved": true
-  },
-  "2.7389,102.2487": {
-    "country": "",
-    "name": "Kuala Pilah",
-    "risk_level": "None",
-    "latitude": 2.7389,
-    "longitude": 102.2487,
-    "rain_mm": 0.0,
-    "humidity": 90.2,
-    "soil_moisture": 0.0,
-    "raw_dynamic_score": 0.0,
-    "last_updated": "2025-11-28T14:22:43.085932Z",
-    "resolved": true
-  },
   "8.7514,80.4971": {
     "country": "",
     "name": "Vavuniya",
@@ -157,19 +118,6 @@
     "soil_moisture": 0.0,
     "raw_dynamic_score": 5.695,
     "last_updated": "2025-11-28T10:21:20.038864Z"
-  },
-  "8.3122,80.4131": {
-    "country": "",
-    "name": "Anuradhapura",
-    "risk_level": "Low",
-    "latitude": 8.31223,
-    "longitude": 80.41306,
-    "rain_mm": 44.4,
-    "humidity": 95.7,
-    "soil_moisture": 0.0,
-    "raw_dynamic_score": 3.757,
-    "last_updated": "2025-11-28T14:21:12.532697Z",
-    "resolved": true
   },
   "2.4808,-78.1097": {
     "country": "",
