@@ -122,13 +122,14 @@
   "2.4808,-78.1097": {
     "country": "",
     "name": "El Charco",
-    "risk_level": "Medium",
+    "risk_level": "Low",
     "latitude": 2.48075,
     "longitude": -78.10972,
-    "rain_mm": 97.1,
-    "humidity": 96.3,
+    "rain_mm": 0.4,
+    "humidity": 92.2,
     "soil_moisture": 0.0,
-    "raw_dynamic_score": 8.218,
-    "last_updated": "2025-11-28T14:20:42.326881Z"
+    "raw_dynamic_score": 0.034,
+    "last_updated": "2025-11-28T22:14:56.210664Z",
+    "resolved": true
   }
 }
