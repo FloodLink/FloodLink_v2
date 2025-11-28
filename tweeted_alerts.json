@@ -190,5 +190,17 @@
     "soil_moisture": 0.0,
     "raw_dynamic_score": 5.418,
     "last_updated": "2025-11-27T10:22:44.303731Z"
+  },
+  "3.5823,-76.4915": {
+    "country": "",
+    "name": "Yumbo",
+    "risk_level": "Medium",
+    "latitude": 3.58234,
+    "longitude": -76.49146,
+    "rain_mm": 59.1,
+    "humidity": 97.7,
+    "soil_moisture": 0.0,
+    "raw_dynamic_score": 5.005,
+    "last_updated": "2025-11-28T06:01:08.721315Z"
   }
 }
