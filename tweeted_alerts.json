@@ -62,14 +62,15 @@
   "6.9708,80.7829": {
     "country": "",
     "name": "Nuwara Eliya",
-    "risk_level": "Medium",
+    "risk_level": "Low",
     "latitude": 6.97078,
     "longitude": 80.78286,
-    "rain_mm": 65.1,
-    "humidity": 95.8,
+    "rain_mm": 13.0,
+    "humidity": 99.0,
     "soil_moisture": 0.0,
-    "raw_dynamic_score": 5.509,
-    "last_updated": "2025-11-27T04:15:58.950130Z"
+    "raw_dynamic_score": 1.102,
+    "last_updated": "2025-11-28T10:20:19.510690Z",
+    "resolved": true
   },
   "7.4698,80.6217": {
     "country": "",
@@ -86,74 +87,80 @@
   "6.9802,81.0577": {
     "country": "",
     "name": "Badulla",
-    "risk_level": "Medium",
+    "risk_level": "Low",
     "latitude": 6.9802,
     "longitude": 81.0577,
-    "rain_mm": 108.2,
-    "humidity": 97.2,
+    "rain_mm": 40.4,
+    "humidity": 93.2,
     "soil_moisture": 0.0,
-    "raw_dynamic_score": 9.162,
-    "last_updated": "2025-11-27T04:16:59.429955Z"
+    "raw_dynamic_score": 3.414,
+    "last_updated": "2025-11-28T10:22:50.803132Z",
+    "resolved": true
   },
   "8.1333,81.4333": {
     "country": "",
     "name": "Vakarai",
-    "risk_level": "Medium",
+    "risk_level": "Low",
     "latitude": 8.13333,
     "longitude": 81.43333,
-    "rain_mm": 62.2,
-    "humidity": 94.3,
+    "rain_mm": 6.4,
+    "humidity": 95.7,
     "soil_moisture": 0.0,
-    "raw_dynamic_score": 5.26,
-    "last_updated": "2025-11-27T10:18:42.686087Z"
+    "raw_dynamic_score": 0.542,
+    "last_updated": "2025-11-28T10:18:48.743358Z",
+    "resolved": true
   },
   "6.6858,80.4036": {
     "country": "",
     "name": "Ratnapura",
-    "risk_level": "Medium",
+    "risk_level": "Low",
     "latitude": 6.6858,
     "longitude": 80.4036,
-    "rain_mm": 82.0,
-    "humidity": 93.0,
+    "rain_mm": 3.3,
+    "humidity": 89.3,
     "soil_moisture": 0.0,
-    "raw_dynamic_score": 6.929,
-    "last_updated": "2025-11-27T10:19:12.888117Z"
+    "raw_dynamic_score": 0.278,
+    "last_updated": "2025-11-28T10:19:19.005085Z",
+    "resolved": true
   },
   "7.2906,80.6336": {
     "country": "",
     "name": "Kandy",
-    "risk_level": "Medium",
+    "risk_level": "Low",
     "latitude": 7.2906,
     "longitude": 80.6336,
-    "rain_mm": 86.7,
+    "rain_mm": 16.0,
     "humidity": 95.8,
     "soil_moisture": 0.0,
-    "raw_dynamic_score": 7.336,
-    "last_updated": "2025-11-27T10:19:43.096972Z"
+    "raw_dynamic_score": 1.354,
+    "last_updated": "2025-11-28T10:20:49.816259Z",
+    "resolved": true
   },
   "6.8916,80.5955": {
     "country": "",
     "name": "Hatton",
-    "risk_level": "Medium",
+    "risk_level": "Low",
     "latitude": 6.8916,
     "longitude": 80.5955,
-    "rain_mm": 85.4,
-    "humidity": 98.0,
+    "rain_mm": 9.6,
+    "humidity": 99.7,
     "soil_moisture": 0.0,
-    "raw_dynamic_score": 7.234,
-    "last_updated": "2025-11-27T10:20:13.285573Z"
+    "raw_dynamic_score": 0.814,
+    "last_updated": "2025-11-28T10:21:50.288745Z",
+    "resolved": true
   },
   "7.1643,80.5696": {
     "country": "",
     "name": "Gampola",
-    "risk_level": "Medium",
+    "risk_level": "Low",
     "latitude": 7.1643,
     "longitude": 80.5696,
-    "rain_mm": 86.7,
+    "rain_mm": 16.0,
     "humidity": 95.8,
     "soil_moisture": 0.0,
-    "raw_dynamic_score": 7.336,
-    "last_updated": "2025-11-27T10:20:43.468147Z"
+    "raw_dynamic_score": 1.354,
+    "last_updated": "2025-11-28T10:22:20.505698Z",
+    "resolved": true
   },
   "2.7297,101.9381": {
     "country": "",
@@ -191,17 +198,64 @@
     "raw_dynamic_score": 5.418,
     "last_updated": "2025-11-27T10:22:44.303731Z"
   },
-  "3.5823,-76.4915": {
+  "8.7514,80.4971": {
     "country": "",
-    "name": "Yumbo",
-    "risk_level": "Low",
-    "latitude": 3.58234,
-    "longitude": -76.49146,
-    "rain_mm": 8.5,
-    "humidity": 97.5,
+    "name": "Vavuniya",
+    "risk_level": "Medium",
+    "latitude": 8.7514,
+    "longitude": 80.4971,
+    "rain_mm": 84.2,
+    "humidity": 96.0,
     "soil_moisture": 0.0,
-    "raw_dynamic_score": 0.72,
-    "last_updated": "2025-11-28T07:37:32.477946Z",
-    "resolved": true
+    "raw_dynamic_score": 7.126,
+    "last_updated": "2025-11-28T10:17:48.252537Z"
+  },
+  "9.8167,80.1667": {
+    "country": "",
+    "name": "Valvedditturai",
+    "risk_level": "Medium",
+    "latitude": 9.81667,
+    "longitude": 80.16667,
+    "rain_mm": 67.4,
+    "humidity": 92.8,
+    "soil_moisture": 0.0,
+    "raw_dynamic_score": 5.695,
+    "last_updated": "2025-11-28T10:18:18.486231Z"
+  },
+  "8.0362,79.8283": {
+    "country": "",
+    "name": "Puttalam",
+    "risk_level": "Medium",
+    "latitude": 8.0362,
+    "longitude": 79.8283,
+    "rain_mm": 68.7,
+    "humidity": 91.2,
+    "soil_moisture": 0.0,
+    "raw_dynamic_score": 5.8,
+    "last_updated": "2025-11-28T10:19:49.261029Z"
+  },
+  "9.6684,80.0074": {
+    "country": "",
+    "name": "Jaffna",
+    "risk_level": "Medium",
+    "latitude": 9.66845,
+    "longitude": 80.00742,
+    "rain_mm": 67.4,
+    "humidity": 92.8,
+    "soil_moisture": 0.0,
+    "raw_dynamic_score": 5.695,
+    "last_updated": "2025-11-28T10:21:20.038864Z"
+  },
+  "8.3122,80.4131": {
+    "country": "",
+    "name": "Anuradhapura",
+    "risk_level": "Medium",
+    "latitude": 8.31223,
+    "longitude": 80.41306,
+    "rain_mm": 96.0,
+    "humidity": 97.7,
+    "soil_moisture": 0.0,
+    "raw_dynamic_score": 8.131,
+    "last_updated": "2025-11-28T10:23:21.029992Z"
   }
 }
