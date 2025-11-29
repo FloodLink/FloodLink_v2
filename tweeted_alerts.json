@@ -119,19 +119,6 @@
     "raw_dynamic_score": 5.695,
     "last_updated": "2025-11-28T10:21:20.038864Z"
   },
-  "10.2904,79.2016": {
-    "country": "",
-    "name": "Peravurani",
-    "risk_level": "Low",
-    "latitude": 10.29035,
-    "longitude": 79.20156,
-    "rain_mm": 13.0,
-    "humidity": 89.7,
-    "soil_moisture": 0.0,
-    "raw_dynamic_score": 1.097,
-    "last_updated": "2025-11-29T19:30:35.753622Z",
-    "resolved": true
-  },
   "10.4236,79.3195": {
     "country": "",
     "name": "Pattukkottai",
