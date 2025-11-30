@@ -146,25 +146,39 @@
   "11.1035,79.6550": {
     "country": "",
     "name": "Mayiladuthurai",
-    "risk_level": "Medium",
+    "risk_level": "Low",
     "latitude": 11.10354,
     "longitude": 79.655,
-    "rain_mm": 87.6,
-    "humidity": 93.8,
+    "rain_mm": 2.1,
+    "humidity": 90.7,
     "soil_moisture": 0.0,
-    "raw_dynamic_score": 7.406,
-    "last_updated": "2025-11-29T19:31:06.048613Z"
+    "raw_dynamic_score": 0.177,
+    "last_updated": "2025-11-30T04:29:09.502472Z",
+    "resolved": true
   },
   "11.3993,79.6914": {
     "country": "",
     "name": "Chidambaram",
-    "risk_level": "Medium",
+    "risk_level": "Low",
     "latitude": 11.39933,
     "longitude": 79.69144,
-    "rain_mm": 71.1,
-    "humidity": 95.8,
+    "rain_mm": 22.3,
+    "humidity": 94.3,
     "soil_moisture": 0.0,
-    "raw_dynamic_score": 6.016,
-    "last_updated": "2025-11-29T19:31:36.294676Z"
+    "raw_dynamic_score": 1.886,
+    "last_updated": "2025-11-30T04:29:39.753091Z",
+    "resolved": true
+  },
+  "-30.7107,-62.0071": {
+    "country": "",
+    "name": "Morteros",
+    "risk_level": "Medium",
+    "latitude": -30.71066,
+    "longitude": -62.00714,
+    "rain_mm": 65.7,
+    "humidity": 94.2,
+    "soil_moisture": 0.0,
+    "raw_dynamic_score": 5.555,
+    "last_updated": "2025-11-30T04:28:39.253864Z"
   }
 }
