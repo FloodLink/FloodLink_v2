@@ -86,50 +86,40 @@
   "-30.7107,-62.0071": {
     "country": "",
     "name": "Morteros",
-    "risk_level": "Medium",
+    "risk_level": "Low",
     "latitude": -30.71066,
     "longitude": -62.00714,
-    "rain_mm": 65.7,
-    "humidity": 94.2,
+    "rain_mm": 1.7,
+    "humidity": 75.5,
     "soil_moisture": 0.0,
-    "raw_dynamic_score": 5.555,
-    "last_updated": "2025-11-30T04:28:39.253864Z"
+    "raw_dynamic_score": 0.142,
+    "last_updated": "2025-11-30T13:53:45.498018Z",
+    "resolved": true
   },
   "-30.9448,-61.5597": {
     "country": "",
     "name": "Sunchales",
-    "risk_level": "Medium",
+    "risk_level": "Low",
     "latitude": -30.94478,
     "longitude": -61.5597,
-    "rain_mm": 111.2,
-    "humidity": 93.7,
+    "rain_mm": 6.5,
+    "humidity": 82.5,
     "soil_moisture": 0.0,
-    "raw_dynamic_score": 9.4,
-    "last_updated": "2025-11-30T07:32:00.758275Z"
+    "raw_dynamic_score": 0.547,
+    "last_updated": "2025-11-30T13:52:45.098232Z",
+    "resolved": true
   },
   "-31.2528,-61.4908": {
     "country": "",
     "name": "Rafaela",
-    "risk_level": "Medium",
+    "risk_level": "Low",
     "latitude": -31.25285,
     "longitude": -61.49078,
-    "rain_mm": 59.9,
-    "humidity": 93.3,
+    "rain_mm": 7.7,
+    "humidity": 83.5,
     "soil_moisture": 0.0,
-    "raw_dynamic_score": 5.063,
-    "last_updated": "2025-11-30T07:32:30.951448Z"
-  },
-  "0.3276,-78.2191": {
-    "country": "",
-    "name": "Atuntaqui",
-    "risk_level": "Low",
-    "latitude": 0.32759,
-    "longitude": -78.21908,
-    "rain_mm": 34.6,
-    "humidity": 94.3,
-    "soil_moisture": 0.0,
-    "raw_dynamic_score": 2.926,
-    "last_updated": "2025-11-30T10:14:17.185225Z",
+    "raw_dynamic_score": 0.648,
+    "last_updated": "2025-11-30T13:53:15.280038Z",
     "resolved": true
   },
   "-30.7899,-60.5928": {
@@ -155,5 +145,53 @@
     "soil_moisture": 0.0,
     "raw_dynamic_score": 5.484,
     "last_updated": "2025-11-30T10:14:47.360581Z"
+  },
+  "-30.9443,-59.7883": {
+    "country": "",
+    "name": "Santa Elena",
+    "risk_level": "Medium",
+    "latitude": -30.94432,
+    "longitude": -59.78832,
+    "rain_mm": 86.1,
+    "humidity": 94.2,
+    "soil_moisture": 0.0,
+    "raw_dynamic_score": 7.28,
+    "last_updated": "2025-11-30T13:50:44.274240Z"
+  },
+  "-30.5807,-59.9296": {
+    "country": "",
+    "name": "San Javier",
+    "risk_level": "Medium",
+    "latitude": -30.58072,
+    "longitude": -59.92962,
+    "rain_mm": 144.4,
+    "humidity": 94.0,
+    "soil_moisture": 0.0,
+    "raw_dynamic_score": 12.208,
+    "last_updated": "2025-11-30T13:51:14.483090Z"
+  },
+  "-30.7418,-59.6452": {
+    "country": "",
+    "name": "La Paz",
+    "risk_level": "Medium",
+    "latitude": -30.74179,
+    "longitude": -59.64517,
+    "rain_mm": 122.0,
+    "humidity": 93.7,
+    "soil_moisture": 0.0,
+    "raw_dynamic_score": 10.313,
+    "last_updated": "2025-11-30T13:51:44.689044Z"
+  },
+  "-30.9562,-58.7797": {
+    "country": "",
+    "name": "Federal",
+    "risk_level": "Medium",
+    "latitude": -30.95619,
+    "longitude": -58.7797,
+    "rain_mm": 63.1,
+    "humidity": 93.3,
+    "soil_moisture": 0.0,
+    "raw_dynamic_score": 5.333,
+    "last_updated": "2025-11-30T13:52:14.893809Z"
   }
 }
