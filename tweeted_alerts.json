@@ -1,69 +1,4 @@
 {
-  "3.3285,99.1625": {
-    "country": "",
-    "name": "Tebingtinggi",
-    "risk_level": "None",
-    "latitude": 3.3285,
-    "longitude": 99.1625,
-    "rain_mm": 0.0,
-    "humidity": 75.3,
-    "soil_moisture": 0.0,
-    "raw_dynamic_score": 0.0,
-    "last_updated": "2025-11-30T07:33:31.339108Z",
-    "resolved": true
-  },
-  "3.5765,98.6151": {
-    "country": "",
-    "name": "Sunggal",
-    "risk_level": "None",
-    "latitude": 3.5765,
-    "longitude": 98.6151,
-    "rain_mm": 0.0,
-    "humidity": 69.3,
-    "soil_moisture": 0.0,
-    "raw_dynamic_score": 0.0,
-    "last_updated": "2025-11-30T07:34:01.532098Z",
-    "resolved": true
-  },
-  "3.6253,98.8640": {
-    "country": "",
-    "name": "Percut",
-    "risk_level": "None",
-    "latitude": 3.6253,
-    "longitude": 98.864,
-    "rain_mm": 0.0,
-    "humidity": 70.3,
-    "soil_moisture": 0.0,
-    "raw_dynamic_score": 0.0,
-    "last_updated": "2025-11-30T07:34:31.715728Z",
-    "resolved": true
-  },
-  "3.5679,98.9560": {
-    "country": "",
-    "name": "Perbaungan",
-    "risk_level": "None",
-    "latitude": 3.5679,
-    "longitude": 98.956,
-    "rain_mm": 0.0,
-    "humidity": 75.7,
-    "soil_moisture": 0.0,
-    "raw_dynamic_score": 0.0,
-    "last_updated": "2025-11-30T07:35:01.925852Z",
-    "resolved": true
-  },
-  "3.5833,98.6667": {
-    "country": "",
-    "name": "Medan",
-    "risk_level": "None",
-    "latitude": 3.58333,
-    "longitude": 98.66667,
-    "rain_mm": 0.0,
-    "humidity": 69.3,
-    "soil_moisture": 0.0,
-    "raw_dynamic_score": 0.0,
-    "last_updated": "2025-11-30T07:35:32.112777Z",
-    "resolved": true
-  },
   "7.4698,80.6217": {
     "country": "",
     "name": "Matale",
@@ -187,13 +122,38 @@
   "0.3276,-78.2191": {
     "country": "",
     "name": "Atuntaqui",
-    "risk_level": "Medium",
+    "risk_level": "Low",
     "latitude": 0.32759,
     "longitude": -78.21908,
-    "rain_mm": 65.1,
-    "humidity": 96.5,
+    "rain_mm": 34.6,
+    "humidity": 94.3,
     "soil_moisture": 0.0,
-    "raw_dynamic_score": 5.51,
-    "last_updated": "2025-11-30T07:33:01.149976Z"
+    "raw_dynamic_score": 2.926,
+    "last_updated": "2025-11-30T10:14:17.185225Z",
+    "resolved": true
+  },
+  "-30.7899,-60.5928": {
+    "country": "",
+    "name": "San Justo",
+    "risk_level": "Medium",
+    "latitude": -30.78991,
+    "longitude": -60.59276,
+    "rain_mm": 85.2,
+    "humidity": 93.2,
+    "soil_moisture": 0.0,
+    "raw_dynamic_score": 7.2,
+    "last_updated": "2025-11-30T10:13:47.006253Z"
+  },
+  "29.5572,-95.8086": {
+    "country": "",
+    "name": "Rosenberg",
+    "risk_level": "Medium",
+    "latitude": 29.55718,
+    "longitude": -95.80856,
+    "rain_mm": 64.9,
+    "humidity": 93.0,
+    "soil_moisture": 0.0,
+    "raw_dynamic_score": 5.484,
+    "last_updated": "2025-11-30T10:14:47.360581Z"
   }
 }
