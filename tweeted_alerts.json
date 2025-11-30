@@ -2,62 +2,67 @@
   "3.3285,99.1625": {
     "country": "",
     "name": "Tebingtinggi",
-    "risk_level": "Medium",
+    "risk_level": "None",
     "latitude": 3.3285,
     "longitude": 99.1625,
-    "rain_mm": 106.3,
-    "humidity": 97.5,
+    "rain_mm": 0.0,
+    "humidity": 75.3,
     "soil_moisture": 0.0,
-    "raw_dynamic_score": 9.002,
-    "last_updated": "2025-11-26T19:24:19.970841Z"
+    "raw_dynamic_score": 0.0,
+    "last_updated": "2025-11-30T07:33:31.339108Z",
+    "resolved": true
   },
   "3.5765,98.6151": {
     "country": "",
     "name": "Sunggal",
-    "risk_level": "Medium",
+    "risk_level": "None",
     "latitude": 3.5765,
     "longitude": 98.6151,
-    "rain_mm": 70.6,
-    "humidity": 95.7,
+    "rain_mm": 0.0,
+    "humidity": 69.3,
     "soil_moisture": 0.0,
-    "raw_dynamic_score": 5.974,
-    "last_updated": "2025-11-26T19:24:50.193444Z"
+    "raw_dynamic_score": 0.0,
+    "last_updated": "2025-11-30T07:34:01.532098Z",
+    "resolved": true
   },
   "3.6253,98.8640": {
     "country": "",
     "name": "Percut",
-    "risk_level": "High",
+    "risk_level": "None",
     "latitude": 3.6253,
     "longitude": 98.864,
-    "rain_mm": 230.7,
-    "humidity": 96.8,
+    "rain_mm": 0.0,
+    "humidity": 70.3,
     "soil_moisture": 0.0,
-    "raw_dynamic_score": 19.531,
-    "last_updated": "2025-11-26T19:25:20.398068Z"
+    "raw_dynamic_score": 0.0,
+    "last_updated": "2025-11-30T07:34:31.715728Z",
+    "resolved": true
   },
   "3.5679,98.9560": {
     "country": "",
     "name": "Perbaungan",
-    "risk_level": "Medium",
+    "risk_level": "None",
     "latitude": 3.5679,
     "longitude": 98.956,
-    "rain_mm": 148.9,
-    "humidity": 96.7,
+    "rain_mm": 0.0,
+    "humidity": 75.7,
     "soil_moisture": 0.0,
-    "raw_dynamic_score": 12.605,
-    "last_updated": "2025-11-26T19:25:50.595732Z"
+    "raw_dynamic_score": 0.0,
+    "last_updated": "2025-11-30T07:35:01.925852Z",
+    "resolved": true
   },
   "3.5833,98.6667": {
     "country": "",
     "name": "Medan",
-    "risk_level": "Medium",
+    "risk_level": "None",
     "latitude": 3.58333,
     "longitude": 98.66667,
-    "rain_mm": 70.6,
-    "humidity": 95.7,
+    "rain_mm": 0.0,
+    "humidity": 69.3,
     "soil_moisture": 0.0,
-    "raw_dynamic_score": 5.974,
-    "last_updated": "2025-11-26T19:26:20.798085Z"
+    "raw_dynamic_score": 0.0,
+    "last_updated": "2025-11-30T07:35:32.112777Z",
+    "resolved": true
   },
   "7.4698,80.6217": {
     "country": "",
@@ -143,32 +148,6 @@
     "raw_dynamic_score": 8.506,
     "last_updated": "2025-11-29T19:30:05.445096Z"
   },
-  "11.1035,79.6550": {
-    "country": "",
-    "name": "Mayiladuthurai",
-    "risk_level": "Low",
-    "latitude": 11.10354,
-    "longitude": 79.655,
-    "rain_mm": 2.1,
-    "humidity": 90.7,
-    "soil_moisture": 0.0,
-    "raw_dynamic_score": 0.177,
-    "last_updated": "2025-11-30T04:29:09.502472Z",
-    "resolved": true
-  },
-  "11.3993,79.6914": {
-    "country": "",
-    "name": "Chidambaram",
-    "risk_level": "Low",
-    "latitude": 11.39933,
-    "longitude": 79.69144,
-    "rain_mm": 22.3,
-    "humidity": 94.3,
-    "soil_moisture": 0.0,
-    "raw_dynamic_score": 1.886,
-    "last_updated": "2025-11-30T04:29:39.753091Z",
-    "resolved": true
-  },
   "-30.7107,-62.0071": {
     "country": "",
     "name": "Morteros",
@@ -180,5 +159,41 @@
     "soil_moisture": 0.0,
     "raw_dynamic_score": 5.555,
     "last_updated": "2025-11-30T04:28:39.253864Z"
+  },
+  "-30.9448,-61.5597": {
+    "country": "",
+    "name": "Sunchales",
+    "risk_level": "Medium",
+    "latitude": -30.94478,
+    "longitude": -61.5597,
+    "rain_mm": 111.2,
+    "humidity": 93.7,
+    "soil_moisture": 0.0,
+    "raw_dynamic_score": 9.4,
+    "last_updated": "2025-11-30T07:32:00.758275Z"
+  },
+  "-31.2528,-61.4908": {
+    "country": "",
+    "name": "Rafaela",
+    "risk_level": "Medium",
+    "latitude": -31.25285,
+    "longitude": -61.49078,
+    "rain_mm": 59.9,
+    "humidity": 93.3,
+    "soil_moisture": 0.0,
+    "raw_dynamic_score": 5.063,
+    "last_updated": "2025-11-30T07:32:30.951448Z"
+  },
+  "0.3276,-78.2191": {
+    "country": "",
+    "name": "Atuntaqui",
+    "risk_level": "Medium",
+    "latitude": 0.32759,
+    "longitude": -78.21908,
+    "rain_mm": 65.1,
+    "humidity": 96.5,
+    "soil_moisture": 0.0,
+    "raw_dynamic_score": 5.51,
+    "last_updated": "2025-11-30T07:33:01.149976Z"
   }
 }
