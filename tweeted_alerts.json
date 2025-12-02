@@ -1,1 +1,15 @@
-{}
+{
+  "30.3960,-86.2288": {
+    "country": "",
+    "name": "Santa Rosa Beach",
+    "risk_level": "Medium",
+    "latitude": 30.39603,
+    "longitude": -86.22883,
+    "rain_mm": 138.8,
+    "humidity": 95.3,
+    "soil_moisture": 0.0,
+    "raw_dynamic_score": 11.742,
+    "last_updated": "2025-12-02T10:20:06.392366Z",
+    "tweet_id": "1995800131892117987"
+  }
+}
