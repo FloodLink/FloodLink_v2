@@ -11,5 +11,18 @@
     "raw_dynamic_score": 11.742,
     "last_updated": "2025-12-02T10:20:06.392366Z",
     "tweet_id": "1995800131892117987"
+  },
+  "-6.7233,146.9961": {
+    "country": "",
+    "name": "Lae",
+    "risk_level": "Medium",
+    "latitude": -6.72333,
+    "longitude": 146.99611,
+    "rain_mm": 64.2,
+    "humidity": 96.8,
+    "soil_moisture": 0.0,
+    "raw_dynamic_score": 5.435,
+    "last_updated": "2025-12-02T16:15:53.747409Z",
+    "tweet_id": "1995889669255401603"
   }
 }
