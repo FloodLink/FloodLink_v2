@@ -1,18 +1,4 @@
 {
-  "30.3960,-86.2288": {
-    "country": "",
-    "name": "Santa Rosa Beach",
-    "risk_level": "None",
-    "latitude": 30.39603,
-    "longitude": -86.22883,
-    "rain_mm": 0.0,
-    "humidity": 86.3,
-    "soil_moisture": 0.0,
-    "raw_dynamic_score": 0.0,
-    "last_updated": "2025-12-03T16:13:24.823636Z",
-    "resolved": true,
-    "tweet_id": "1996251432324911337"
-  },
   "10.9289,108.1021": {
     "country": "",
     "name": "Phan Thiết",
