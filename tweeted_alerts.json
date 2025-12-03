@@ -2,14 +2,28 @@
   "30.3960,-86.2288": {
     "country": "",
     "name": "Santa Rosa Beach",
-    "risk_level": "Medium",
+    "risk_level": "None",
     "latitude": 30.39603,
     "longitude": -86.22883,
-    "rain_mm": 138.8,
-    "humidity": 95.3,
+    "rain_mm": 0.0,
+    "humidity": 86.3,
     "soil_moisture": 0.0,
-    "raw_dynamic_score": 11.742,
-    "last_updated": "2025-12-02T10:20:06.392366Z",
-    "tweet_id": "1995800131892117987"
+    "raw_dynamic_score": 0.0,
+    "last_updated": "2025-12-03T16:13:24.823636Z",
+    "resolved": true,
+    "tweet_id": "1996251432324911337"
+  },
+  "10.9289,108.1021": {
+    "country": "",
+    "name": "Phan Thiết",
+    "risk_level": "Medium",
+    "latitude": 10.92889,
+    "longitude": 108.10208,
+    "rain_mm": 106.4,
+    "humidity": 96.0,
+    "soil_moisture": 0.0,
+    "raw_dynamic_score": 9.004,
+    "last_updated": "2025-12-03T16:13:55.036656Z",
+    "tweet_id": "1996251559215157304"
   }
 }
