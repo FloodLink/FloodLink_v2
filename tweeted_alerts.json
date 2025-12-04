@@ -1,18 +1,4 @@
 {
-  "10.9289,108.1021": {
-    "country": "",
-    "name": "Phan Thiết",
-    "risk_level": "Low",
-    "latitude": 10.92889,
-    "longitude": 108.10208,
-    "rain_mm": 10.8,
-    "humidity": 92.7,
-    "soil_moisture": 0.0,
-    "raw_dynamic_score": 0.913,
-    "last_updated": "2025-12-03T22:04:07.818441Z",
-    "resolved": true,
-    "tweet_id": "1996339692930007134"
-  },
   "11.5480,107.8077": {
     "country": "",
     "name": "Bảo Lộc",
@@ -25,5 +11,18 @@
     "raw_dynamic_score": 5.254,
     "last_updated": "2025-12-03T22:04:38.057908Z",
     "tweet_id": "1996339820013269333"
+  },
+  "-21.5319,-42.6431": {
+    "country": "",
+    "name": "Leopoldina",
+    "risk_level": "Medium",
+    "latitude": -21.53194,
+    "longitude": -42.64306,
+    "rain_mm": 59.2,
+    "humidity": 94.5,
+    "soil_moisture": 0.0,
+    "raw_dynamic_score": 5.006,
+    "last_updated": "2025-12-04T02:31:27.311025Z",
+    "tweet_id": "1996406967703597445"
   }
 }
