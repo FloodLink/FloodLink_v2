@@ -2,40 +2,43 @@
   "11.5480,107.8077": {
     "country": "",
     "name": "Bảo Lộc",
-    "risk_level": "Medium",
+    "risk_level": "None",
     "latitude": 11.54798,
     "longitude": 107.80772,
-    "rain_mm": 62.2,
-    "humidity": 92.0,
+    "rain_mm": 0.0,
+    "humidity": 87.3,
     "soil_moisture": 0.0,
-    "raw_dynamic_score": 5.254,
-    "last_updated": "2025-12-03T22:04:38.057908Z",
-    "tweet_id": "1996339820013269333"
+    "raw_dynamic_score": 0.0,
+    "last_updated": "2025-12-04T22:11:23.545676Z",
+    "resolved": true,
+    "tweet_id": "1996703908480045171"
   },
   "-13.1519,-41.7728": {
     "country": "",
     "name": "Piatã",
-    "risk_level": "Medium",
+    "risk_level": "Low",
     "latitude": -13.15194,
     "longitude": -41.77278,
-    "rain_mm": 75.0,
-    "humidity": 92.7,
+    "rain_mm": 21.3,
+    "humidity": 93.3,
     "soil_moisture": 0.0,
-    "raw_dynamic_score": 6.337,
-    "last_updated": "2025-12-04T19:24:58.203718Z",
-    "tweet_id": "1996662026978931125"
+    "raw_dynamic_score": 1.8,
+    "last_updated": "2025-12-04T22:10:22.985272Z",
+    "resolved": true,
+    "tweet_id": "1996703654544396537"
   },
   "-13.6261,-41.3269": {
     "country": "",
     "name": "Barra da Estiva",
-    "risk_level": "Medium",
+    "risk_level": "Low",
     "latitude": -13.62611,
     "longitude": -41.32694,
-    "rain_mm": 67.9,
-    "humidity": 91.8,
+    "rain_mm": 47.8,
+    "humidity": 90.8,
     "soil_moisture": 0.0,
-    "raw_dynamic_score": 5.735,
-    "last_updated": "2025-12-04T19:25:28.439567Z",
-    "tweet_id": "1996662153894363221"
+    "raw_dynamic_score": 4.035,
+    "last_updated": "2025-12-04T22:10:53.246207Z",
+    "resolved": true,
+    "tweet_id": "1996703781455569325"
   }
 }
