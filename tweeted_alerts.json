@@ -15,14 +15,15 @@
   "-21.5319,-42.6431": {
     "country": "",
     "name": "Leopoldina",
-    "risk_level": "Medium",
+    "risk_level": "Low",
     "latitude": -21.53194,
     "longitude": -42.64306,
-    "rain_mm": 59.2,
-    "humidity": 94.5,
+    "rain_mm": 5.3,
+    "humidity": 92.2,
     "soil_moisture": 0.0,
-    "raw_dynamic_score": 5.006,
-    "last_updated": "2025-12-04T02:31:27.311025Z",
-    "tweet_id": "1996406967703597445"
+    "raw_dynamic_score": 0.448,
+    "last_updated": "2025-12-04T10:14:07.737913Z",
+    "resolved": true,
+    "tweet_id": "1996523403273015626"
   }
 }
